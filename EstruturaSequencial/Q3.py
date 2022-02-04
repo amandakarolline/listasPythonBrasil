@@ -1,6 +1,6 @@
 # 3) Faça um Programa que peça dois números e imprima a soma.
 
-def leia_numero ():
+def leia_numero():
     while True:
         try:
             numero = float(input('Digite um número: '))

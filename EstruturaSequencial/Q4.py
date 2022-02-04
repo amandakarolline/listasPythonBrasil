@@ -1,6 +1,6 @@
 # 4) Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
-def leia_numero ():
+def leia_numero():
     while True:
         try:
             numero = float(input('Digite um número: '))
