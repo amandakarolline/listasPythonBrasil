@@ -28,6 +28,6 @@ while True:
         peso = (62.1*h) - 44.7
         break
     else:
-        continue
+        pass
 
 print(f'O seu peso ideal é {peso}')
