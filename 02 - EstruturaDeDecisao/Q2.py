@@ -11,6 +11,7 @@ def leia_numero():
 
     return numero
 
+
 numero = leia_numero()
 if numero > 0:
     print('Número é positivo')
