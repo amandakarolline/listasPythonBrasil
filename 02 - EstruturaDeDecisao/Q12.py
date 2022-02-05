@@ -17,6 +17,23 @@
 #         Total de descontos              : R$  165,00
 #         Salário Liquido                 : R$  935,00
 
+"""
+    Exemplo:
+    >>> salario_bruto
+    1100.0
+    >>> IR
+    55.0
+    >>> inss
+    110.0
+    >>> fgts
+    121.0
+    >>> descontos
+    165.0
+    >>> salario_liquido
+    935.0
+"""
+
+
 def leia_numero(valor='numero'):
     while True:
         try:
