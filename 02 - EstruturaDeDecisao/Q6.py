@@ -15,6 +15,6 @@ def leia_numero():
 numero1 = leia_numero()
 numero2 = leia_numero()
 numero3 = leia_numero()
-maior = max(numero1,numero2, numero3)
+maior = max(numero1, numero2, numero3)
 
 print(f'O maior número é {maior}')
