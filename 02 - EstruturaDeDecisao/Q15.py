@@ -13,7 +13,7 @@ Triângulo Escaleno: três lados diferentes;
 def leia_numero():
     while True:
         try:
-            numero = float(input('Digite uma nota: '))
+            numero = float(input('Digite o valor do lado: '))
         except ValueError:
             print("Você não digitou um número.")
         else:
