@@ -11,6 +11,7 @@ O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e
 a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
 """
 
+
 def leia_numero():
     while True:
         try:
