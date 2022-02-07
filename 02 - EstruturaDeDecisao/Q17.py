@@ -18,7 +18,7 @@ Isso porque eles são uniformemente divisíveis por 100 e 400.
 def leia_numero():
     while True:
         try:
-            numero = int(input('Digite uma nota: '))
+            numero = int(input('Digite um ano: '))
         except ValueError:
             print("Você não digitou um número.")
         else:
