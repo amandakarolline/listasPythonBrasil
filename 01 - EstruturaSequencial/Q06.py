@@ -1,4 +1,4 @@
-# 6) Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+"""6) Faça um Programa que peça o raio de um círculo, calcule e mostre sua área."""
 
 def leia_numero():
     while True:

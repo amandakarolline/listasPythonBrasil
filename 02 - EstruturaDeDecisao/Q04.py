@@ -1,4 +1,4 @@
-# 4) Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+"""4) Faça um Programa que verifique se uma letra digitada é vogal ou consoante."""
 
 vogais = ['A', 'E', 'I', 'O', 'U']
 consoantes = ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z']

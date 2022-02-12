@@ -1,4 +1,4 @@
-# 5) Faça um Programa que converta metros para centímetros.
+"""5) Faça um Programa que converta metros para centímetros."""
 
 def leia_numero():
     while True:

@@ -1,4 +1,4 @@
-# 9) Faça um Programa que leia três números e mostre-os em ordem decrescente.
+"""9) Faça um Programa que leia três números e mostre-os em ordem decrescente."""
 
 def leia_numero():
     while True:

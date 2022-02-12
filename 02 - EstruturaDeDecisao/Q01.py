@@ -1,4 +1,4 @@
-# 1) Faça um Programa que peça dois números e imprima o maior deles.
+"""1) Faça um Programa que peça dois números e imprima o maior deles."""
 
 def leia_numero():
     while True:

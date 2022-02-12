@@ -1,4 +1,4 @@
-# 3) Faça um Programa que peça dois números e imprima a soma.
+"""6) Faça um Programa que leia três números e mostre o maior deles."""
 
 def leia_numero():
     while True:
@@ -14,6 +14,7 @@ def leia_numero():
 
 numero1 = leia_numero()
 numero2 = leia_numero()
-soma = numero1+numero2
+numero3 = leia_numero()
+maior = max(numero1, numero2, numero3)
 
-print(f'A soma é {soma}')
+print(f'O maior número é {maior}')
